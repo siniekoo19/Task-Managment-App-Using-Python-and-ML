@@ -19,7 +19,7 @@ The project consists of two main folders: `task_manager.py` and `helper.py`.
 4. **Task Recommendation:** Users can request recommendations for which tasks to prioritize based on the priority of each task.
 
 ## Preview of WebApp
-
+![Logo](https://github.com/siniekoo19/Task-Managment-App-Using-Python-and-ML/blob/main/Screenshot%202024-03-26%20194145.png)
 
 ## 🚀 About Me
 👋 Hi there! I'm Sinchana Chatterjee, an enthusiastic and determined B.Tech student with a fervent aspiration to excel as a Data Scientist and Data Analyst.
